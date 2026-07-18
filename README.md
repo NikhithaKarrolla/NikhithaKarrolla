@@ -165,3 +165,144 @@ I love combining Artificial Intelligence with Full Stack Development to build sm
   <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NikhithaKarrolla&theme=tokyonight&utcOffset=5.5"/>
 </p>
 
+<!-- ========================================= -->
+<!--            FEATURED PROJECTS              -->
+<!-- ========================================= -->
+
+# Featured Projects
+
+<p align="center">
+  <i>Building scalable web applications and AI-powered solutions with modern technologies.</i>
+</p>
+
+---
+
+## Full-Stack Carbon Footprint & Credit Management Platform
+
+> **A scalable web platform for monitoring carbon emissions, predicting future trends, and managing carbon credits.**
+
+### 🛠 Tech Stack
+
+<p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square"/>
+</p>
+
+### ✨ Key Features
+
+-  Track industrial carbon emissions
+-  Interactive analytics dashboard
+-  Secure role-based authentication
+-  RESTful API architecture
+-  Linear Regression model for carbon emission prediction
+-  Carbon credit estimation
+
+📂 **Repository:** https://github.com/NikhithaKarrolla/Carbon_Footprint_and_Credit_Management_System
+
+---
+
+## 🤖 AI-Powered PDF Document Assistant
+
+> **A Retrieval-Augmented Generation (RAG) application that enables intelligent question answering over PDF documents.**
+
+### 🛠 Tech Stack
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-121212?style=flat-square"/>
+<img src="https://img.shields.io/badge/FAISS-009688?style=flat-square"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square"/>
+</p>
+
+###  Key Features
+
+-  Upload and analyze PDF documents
+-  Semantic search using vector embeddings
+-  AI-powered conversational interface
+-  Fast document retrieval with FAISS
+-  Context-aware responses using local LLM (Ollama)
+-  Optimized chunking and embedding pipeline
+
+📂 **Repository:** https://github.com/NikhithaKarrolla/PDF-RAG-Assistant
+
+---
+
+## 🔗 Smart AI URL Shortener
+
+> **An AI-powered URL management platform with analytics, phishing detection, and secure authentication.**
+
+### 🛠 Tech Stack
+
+<p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-black?style=flat-square"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+</p>
+
+### ✨ Key Features
+
+-  Custom URL shortening
+-  JWT-based authentication
+-  QR code generation
+-  Real-time analytics dashboard
+-  AI-powered phishing detection
+-  Webpage summarization & URL classification
+-  Device, browser, location & referrer tracking
+-  Dockerized deployment
+
+📂 **Repository:** https://github.com/NikhithaKarrolla/Smart-AI-URL-Shortener
+
+---
+
+<!-- ========================================= -->
+<!--             INTERNSHIPS                   -->
+<!-- ========================================= -->
+
+#  Internship Experience
+
+##  AI & Cloud Technology Intern
+**Edunet Foundation**
+-  Worked with IBM Cloud environments
+-  Configured cloud-hosted applications
+-  Structured datasets for AI workflows
+-  Automated data parsing processes
+
+---
+
+##  Python Essentials Intern
+**Myna Seva Foundation**
+- Developed strong Python programming skills
+- Applied Object-Oriented Programming concepts
+- Implemented algorithms and problem-solving techniques
+- Built reusable functions and modular code
+
+---
+
+##  AI & Prompt Engineering Intern
+**VaultofCodes**
+- Designed advanced prompts for generative AI
+- Used few-shot prompting techniques
+- Improved AI response quality through prompt engineering
+- Explored practical applications of Large Language Models (LLMs)
+
+<!-- ========================================= -->
+<!--             CERTIFICATIONS                -->
+<!-- ========================================= -->
+
+# Certifications
+
+| Certification | Organization |
+|---------------|--------------|
+|  Java Programming (Elite/Silver) | NPTEL |
+|  Problem Solving Through C | NPTEL |
+|  Data Science Foundation | Infosys Springboard |
+|  Generative AI Domain Specialist | TATA |
+|  Data Analyst Virtual Experience | Deloitte |
