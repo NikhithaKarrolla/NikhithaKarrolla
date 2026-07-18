@@ -204,7 +204,7 @@ I love combining Artificial Intelligence with Full Stack Development to build sm
 
 ---
 
-## 🤖 AI-Powered PDF Document Assistant
+## AI-Powered PDF Document Assistant
 
 > **A Retrieval-Augmented Generation (RAG) application that enables intelligent question answering over PDF documents.**
 
@@ -231,7 +231,7 @@ I love combining Artificial Intelligence with Full Stack Development to build sm
 
 ---
 
-## 🔗 Smart AI URL Shortener
+## Smart AI URL Shortener
 
 > **An AI-powered URL management platform with analytics, phishing detection, and secure authentication.**
 
