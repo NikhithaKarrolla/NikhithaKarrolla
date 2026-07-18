@@ -3,7 +3,7 @@
 <!-- ========================================= -->
 
 <h1 align="center">
-  Hi  I'm <span style="color:#00BFFF;">Karrolla Nikhitha</span>
+  Hi  I'm <span style="color:#00BFFF;">Nikhitha Karrolla</span>
 </h1>
 
 <h3 align="center">
