@@ -314,3 +314,9 @@ I love combining Artificial Intelligence with Full Stack Development to build sm
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NikhithaKarrolla&show_icons=true&rank_icon=default" />
 </p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NikhithaKarrolla&show_icons=true&rank_icon=percentile" />
+</p>
