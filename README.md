@@ -19,6 +19,16 @@ Full Stack Developer • AI Enthusiast • Problem Solver
 <a href="https://github.com/NikhithaKarrolla">
 <img src="https://img.shields.io/github/followers/NikhithaKarrolla?label=Followers&style=for-the-badge"/>
 </a>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NikhithaKarrolla&show_icons=true&rank_icon=percentile" />
+</p>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NikhithaKarrolla&show_icons=true&rank_icon=default" />
+</p>
 
 <img src="https://komarev.com/ghpvc/?username=NikhithaKarrolla&label=Profile%20Views&style=for-the-badge&color=blue"/>
 
